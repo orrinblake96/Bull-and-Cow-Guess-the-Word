@@ -4,4 +4,5 @@ This was a game made while undertaking a GameDev.tv course for Unreal Engine 4. 
 #### How to play
 1. Clone/Download the repo.
 2. Open in Unreal Engine 4.
+3. Hit play, then press 'tab' key to interact with signpost.
 3. Enjoy.
